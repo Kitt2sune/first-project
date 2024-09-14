@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+p, li {
+	display: inline-flex;
+	align-items: center;
+}
+a{
+	color: white;
+	
+}
+header {
+	display: block;
+	background-color: black;
+	height: 100px;
+	width: 100 %;
+	text-align: center;
+}
